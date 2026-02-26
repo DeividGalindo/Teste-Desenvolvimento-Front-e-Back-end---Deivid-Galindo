@@ -28,7 +28,7 @@
                     </div>
                 </div>
 
-                <form id="formFornecedor" action="" method="POST">
+                <form id="formFornecedor" action="cadastrar.php" method="POST">
                     
                     <div class="row mb-3">
                         <div class="col-md-6">
