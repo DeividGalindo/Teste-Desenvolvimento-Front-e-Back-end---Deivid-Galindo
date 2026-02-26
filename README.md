@@ -22,4 +22,4 @@ Com o projeto rodando na sua pasta local, acesse a URL abaixo no seu navegador:
 *(A partir desta tela principal, você tem acesso direto a todas as funções do sistema: visualizar, cadastrar, editar e excluir registros).*
 
 ## 📄 Documentação Técnica
-A documentação completa do projeto, contendo as decisões de arquitetura, modelagem de dados e regras de negócio, foi elaborada em formato Word.
+A documentação completa do projeto, contendo as decisões de arquitetura, modelagem de dados e regras de negócio, foi elaborada em formato PDF.
