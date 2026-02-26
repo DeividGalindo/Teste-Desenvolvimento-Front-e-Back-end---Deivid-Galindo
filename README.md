@@ -1,6 +1,6 @@
 # Portal MSE - Cadastro de Fornecedor
 
-Este repositório contém o código-fonte do teste técnico desenvolvido para a MSE Engenharia. O sistema consiste em um CRUD completo e responsivo para o cadastro, leitura, edição e exclusão de fornecedores.
+Este repositório contém o código do teste técnico feito para a MSE Engenharia referente a vaga de estágio. O sistema consiste em um CRUD completo e responsivo para o cadastro, leitura, edição e exclusão de fornecedores.
 
 ## 🚀 Tecnologias Utilizadas
 * **Front-end:** HTML5, CSS3, Bootstrap 5
